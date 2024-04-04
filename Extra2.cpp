@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 void main() {
-	int N = 2, M = 2;
 	float a, b, c, d;
 	cout << "a, b, c, d = ? " << endl;
 	cin >> a >> b >> c >> d;
